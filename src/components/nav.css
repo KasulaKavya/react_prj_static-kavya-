@@ -1,0 +1,68 @@
+.bg-l
+{
+    background-color:rgb(115, 116, 115);
+    font-size: 32px;
+    line-height: auto;
+}
+
+
+.nav-link
+{
+    color:rgb(3, 2, 88);
+}
+
+
+.bg-c
+{
+    background-color: rgb(121, 3, 91);
+    font-size: 36px;
+    line-height: auto;
+}
+
+
+.bg
+{
+    background-color: rgb(199, 195, 195);
+}
+
+a:hover 
+{
+    background-color: rgb(8, 106, 119);
+    color:white;
+}
+
+h3
+{
+    color:rgb(241, 65, 88);
+    /*color:rgb(173, 6, 28);
+    bg- rgb(199, 195, 195);*/
+}
+ 
+h2
+{
+    color:rgb(2, 90, 90);
+}
+ 
+
+ul li
+{
+    color:rgb(3, 2, 88);
+}
+
+.h-150
+{
+    height:150px
+}
+
+.h-500
+{
+    height:500px
+}
+
+.bg-p
+{
+    background-color: rgb(252, 222, 205);
+    font-size: 26px;
+    line-height: auto;
+    
+}

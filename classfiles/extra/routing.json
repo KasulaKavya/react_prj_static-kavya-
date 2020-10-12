@@ -1,0 +1,27 @@
+[
+    {
+        "id":1,
+        "name":"application-designing-service",
+        "pic":["../../images/routings/app_dsg_service.jpg"],
+        "description":"iOS and Android app development RubyGarage provides a full range of iOS and Android development services. From mobile application design for iPhones and iPads to multiple Android devices, we provide complete mobile development services and create quality, cost-effective products."
+    },
+    {
+        "id":2,
+        "name":"application-development-service",
+        "pic":["../../images/routings/app_dvt_service.jpg"],
+        "description":"Application development services allow you to build consumer-facing or B2B apps for a range of digital platforms like mobile, web, desktop, smartwatch, VR and AR."
+    },
+    {
+        "id":3,
+        "name":"digital-marketing-service",
+        "pic":["../../images/routings/digital_market.png"],
+        "description":"Expertised, Advanced, Unique, Customized & Proven strategies to reach your Business Goals. 24/7 Service so Call Us now for the Best Digital Marketing Services in Hyderabad-Sanbrains. ROAS Based Paid Campaigns. Dedicated Account Manager."
+    },
+    {
+        "id":4,
+        "name":"mobile-application-service",
+        "pic":["../../images/routings/mobile_app_dvt.jpg"],
+        "description":"We provide a range of mobile application development services including custom mobile development on iOS or Android platforms, building cross-platform apps, designing user experience and integrating novel mobile interfaces such as chat and voice."
+    }
+
+]

@@ -1,0 +1,62 @@
+{
+  "users": [
+    {
+      "name": "mammu",
+      "email": "mammu16@gmail.com",
+      "location": "HYD",
+      "course": "FULLSTACK",
+      "phone": 1422142209,
+      "id": 101
+    },
+    {
+      "name": "KAVYA",
+      "email": "kav@gmail.com",
+      "location": "hyd",
+      "course": "fullstack",
+      "phone": "8639776004",
+      "id": 102
+    },
+    {
+      "name": "kavya sri",
+      "email": "kasula@gmail.com",
+      "location": "hyd",
+      "course": "react",
+      "phone": "145287969",
+      "id": 103
+    },
+    {
+      "id": 104,
+      "name": "vara",
+      "email": "vara@gmail.com",
+      "location": "HYD",
+      "course": "JS",
+      "phone": 1409842289
+    },
+    {
+      "id": 105,
+      "name": "sindhu",
+      "email": "sindhu@gmail.com",
+      "location": "HYD",
+      "course": "REACT",
+      "phone": 1427862892
+    },
+    {
+      "name": "goutham",
+      "email": "goutham@gmail.com",
+      "location": "hyd",
+      "course": "python",
+      "phone": "675433456",
+      "id": 106
+    }
+  ],
+  "posts": [
+    {
+      "date": "02-03-1992",
+      "mail": "dd4@gmail.com"
+    },
+    {
+      "date": "04-05-1992",
+      "mail": "yy9@gmail.com"
+    }
+  ]
+}

@@ -1,0 +1,38 @@
+[
+    {
+        "id":1,
+        "name":"kavya",
+        "email":"kavya@gmail.com",
+        "location":"HYD",
+        "course":"FULLSTACK",
+        "phone":1422142289
+    },
+    {
+        "id":2,
+        "name":"mammu",
+        "email":"mammu@gmail.com",
+        "location":"HYD",
+        "course":"FULLSTACK",
+        "phone":1422142209
+    },
+    {
+        "id":3,
+        "name":"vara",
+        "email":"vara@gmail.com",
+        "location":"HYD",
+        "course":"JS",
+        "phone":1409842289
+    },
+    {
+        "id":4,
+        "name":"sindhu",
+        "email":"sindhu@gmail.com",
+        "location":"HYD",
+        "course":"REACT",
+        "phone":1427862892
+    }
+
+]
+
+
+
